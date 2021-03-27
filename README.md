@@ -1,13 +1,13 @@
-<img align="right" src="https://raw.githubusercontent.com/vasilzhigilei/Zhigilei/master/assets/images/zhigilei.png">
-<br/>
-<br/>
+<p align="right">
+  <img align="right" src="https://raw.githubusercontent.com/vasilzhigilei/Zhigilei/master/assets/images/zhigilei.png">
+</p>
 <h1>Hi there 👋</h1>
 
 [This page is under construction!]
 
 ---
 
-<h1>Hi there 👋</h1>
+<h2>Statistics</h2>
 <p align="center">
   <a href="https://github.com/vasilzhigilei">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasilzhigilei&hide=javascript,html,css&langs_count=9&layout=compact&theme=radical" />
