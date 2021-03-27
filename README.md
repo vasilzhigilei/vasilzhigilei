@@ -1,7 +1,9 @@
 <p align="right">
-  <img align="right" src="https://raw.githubusercontent.com/vasilzhigilei/Zhigilei/master/assets/images/zhigilei.png">
+  <a href="https://www.zhigilei.com/">
+    <img align="right" src="https://raw.githubusercontent.com/vasilzhigilei/Zhigilei/master/assets/images/zhigilei.png">
+  </a>
 </p>
-<h1>Hi there 👋</h1>
+<h1>Welcome! 👋</h1>
 
 [This page is under construction!]
 
