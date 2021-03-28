@@ -5,7 +5,7 @@
 </p>
 <h1>Welcome! 👋</h1>
 
-[This page is under construction!]
+Feel free to visit my personal website by clicking on the image to the right ⟶
 
 ---
 
