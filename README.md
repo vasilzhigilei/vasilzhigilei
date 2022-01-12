@@ -6,7 +6,7 @@
 <h1>Welcome! 👋</h1>
 
 Feel free to visit my personal website by clicking on the image to the right ⟶
-
+<!--
 ---
 
 <h2>Statistics</h2>
@@ -18,7 +18,7 @@ Feel free to visit my personal website by clicking on the image to the right ⟶
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasilzhigilei&hide=contribs&theme=radical" />
   </a>
 </p>
-
+-->
 <!--
 **vasilzhigilei/vasilzhigilei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
