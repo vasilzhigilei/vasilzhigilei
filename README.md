@@ -1,8 +1,8 @@
-<p align="right">
+<!--<p align="right">
   <a href="https://www.zhigilei.com/" target="_blank">
     <img align="right" src="https://raw.githubusercontent.com/vasilzhigilei/Zhigilei/master/assets/images/zhigilei.png">
   </a>
-</p>
+</p>-->
 <h1>Welcome! 👋</h1>
 <!--
 Feel free to visit my personal website by clicking on the image to the right ⟶
