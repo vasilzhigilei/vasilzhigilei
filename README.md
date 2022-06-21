@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1>Welcome! 👋</h1>
-
+<!--
 Feel free to visit my personal website by clicking on the image to the right ⟶
 <!--
 ---
@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
